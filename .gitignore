@@ -1,0 +1,20 @@
+# Environments
+.venv/
+venv/
+.env
+
+# Python / tooling caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Test output (anywhere in the tree)
+reports/
+report_output/
+screenshots/
+test-results/
+playwright-report/
